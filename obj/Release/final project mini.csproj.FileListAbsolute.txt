@@ -1,0 +1,8 @@
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\bin\Release\final project mini.exe.config
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\bin\Release\final project mini.exe
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\bin\Release\final project mini.pdb
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Release\final_project_mini.Properties.Resources.resources
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Release\final project mini.csproj.GenerateResource.cache
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Release\final project mini.exe
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Release\final project mini.pdb
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Release\final project mini.csprojAssemblyReference.cache

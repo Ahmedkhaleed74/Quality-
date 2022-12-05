@@ -1,0 +1,33 @@
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\bin\Debug\final project mini.exe.config
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\bin\Debug\final project mini.exe
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\bin\Debug\final project mini.pdb
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\obj\Debug\final project mini.csprojAssemblyReference.cache
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\obj\Debug\final_project_mini.Properties.Resources.resources
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\obj\Debug\final project mini.csproj.GenerateResource.cache
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\obj\Debug\final project mini.exe
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\mini\final project mini\final project mini\obj\Debug\final project mini.pdb
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\bin\Debug\final project mini.exe.config
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\bin\Debug\final project mini.exe
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\bin\Debug\final project mini.pdb
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Debug\final project mini.csprojAssemblyReference.cache
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Debug\final_project_mini.Properties.Resources.resources
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Debug\final project mini.csproj.GenerateResource.cache
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Debug\final project mini.exe
+D:\mozakra\year 2 semaster 2\MULTIMEDIA CS232\project\final project mini\final project mini\obj\Debug\final project mini.pdb
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\bin\Debug\final project mini.exe.config
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\bin\Debug\final project mini.exe
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\bin\Debug\final project mini.pdb
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\obj\Debug\final project mini.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\obj\Debug\final_project_mini.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\obj\Debug\final project mini.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\obj\Debug\final project mini.exe
+C:\Users\Lenovo\Desktop\Hamada\final project mini\final project mini\final project mini\obj\Debug\final project mini.pdb
+Z:\Documents\MM\final project mini\final project mini\bin\Debug\final project mini.exe.config
+Z:\Documents\MM\final project mini\final project mini\bin\Debug\final project mini.exe
+Z:\Documents\MM\final project mini\final project mini\bin\Debug\final project mini.pdb
+Z:\Documents\MM\final project mini\final project mini\obj\Debug\final project mini.csproj.AssemblyReference.cache
+Z:\Documents\MM\final project mini\final project mini\obj\Debug\final_project_mini.Properties.Resources.resources
+Z:\Documents\MM\final project mini\final project mini\obj\Debug\final project mini.csproj.GenerateResource.cache
+Z:\Documents\MM\final project mini\final project mini\obj\Debug\final project mini.csproj.CoreCompileInputs.cache
+Z:\Documents\MM\final project mini\final project mini\obj\Debug\final project mini.exe
+Z:\Documents\MM\final project mini\final project mini\obj\Debug\final project mini.pdb
